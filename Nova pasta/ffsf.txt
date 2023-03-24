@@ -1,0 +1,13 @@
+itens necessarios: nav bar com 3 botoes: inívio, serviço e contato
+slide de fotos
+história (texto e fot0) 
+serviços (6cards)
+formulário 
+tamanhos das  fotos
+logo: 80x80
+slide de fotos: 1400x500
+ao lado do texto: 600x400
+cards: 1280x720
+dentro do card: 1920x500
+conteiner 
+cada item de ve ter uma row e dentro de cada row deve conter uma col
